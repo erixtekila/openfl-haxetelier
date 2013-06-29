@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="05-Sound" package="com.example.05-sound" version="1.0.0" company="Mediabox" />
+	<app main="Main" path="Export" file="05-Sound" />
+	
+	<source path="Source" />
+	<source path="../sounds" />
+
+	<haxelib name="openfl" />
+	
+	<assets path="Assets" rename="assets" exclude="nme.svg" />
+	<icon path="Assets/nme.svg" />
+	
+</project>

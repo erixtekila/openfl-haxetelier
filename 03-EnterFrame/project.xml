@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="03-EnterFrame" package="com.example.03-enterframe" version="1.0.0" company="Mediabox" />
+	<app main="Main" path="Export" file="03-EnterFrame" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="Assets" rename="assets" exclude="nme.svg" />
+	<icon path="Assets/nme.svg" />
+	
+</project>

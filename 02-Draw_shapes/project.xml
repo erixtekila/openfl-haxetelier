@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="02-Draw_shapes" package="com.example.02-draw_shapes" version="1.0.0" company="Mediabox" />
+	<app main="Main" path="Export" file="02-Draw_shapes" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="Assets" rename="assets" exclude="nme.svg" />
+	<icon path="Assets/nme.svg" />
+	
+</project>

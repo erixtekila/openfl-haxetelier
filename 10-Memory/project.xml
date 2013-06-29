@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Memory" package="com.example.memory" version="1.0.0" company="Mediabox" />
+	<app main="Main" path="Export" file="Memory" />
+	<window width="768" height="1280" />
+	
+	<source path="Source" />
+	<source path="../graphics" />
+	<source path="../sounds" />
+	<assets path="../sounds" rename="sounds" include="*.mp3" />
+
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+
+	<assets path="Assets" rename="assets" exclude="nme.svg" />
+	<icon path="Assets/nme.svg" />
+	
+</project>

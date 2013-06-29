@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="ProjectSetup" package="com.example.mb.projectsetup" version="1.0.0" company="Mediabox" />
+	<app main="Main" path="Export" file="ProjectSetup" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="Assets" rename="assets" exclude="nme.svg" />
+	<icon path="Assets/nme.svg" />
+	
+</project>

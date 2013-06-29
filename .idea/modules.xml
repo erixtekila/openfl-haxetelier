@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-ProjectSetup/01-ProjectSetup.iml" filepath="$PROJECT_DIR$/01-ProjectSetup/01-ProjectSetup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Draw_shapes/02-Draw_shapes.iml" filepath="$PROJECT_DIR$/02-Draw_shapes/02-Draw_shapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-EnterFrame/03-EnterFrame.iml" filepath="$PROJECT_DIR$/03-EnterFrame/03-EnterFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Bitmap/04-Bitmap.iml" filepath="$PROJECT_DIR$/04-Bitmap/04-Bitmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Sound/05-Sound.iml" filepath="$PROJECT_DIR$/05-Sound/05-Sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Font/06-Font.iml" filepath="$PROJECT_DIR$/06-Font/06-Font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Memory/10-Memory.iml" filepath="$PROJECT_DIR$/10-Memory/10-Memory.iml" />
+    </modules>
+  </component>
+</project>
+

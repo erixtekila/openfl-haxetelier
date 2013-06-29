@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="04-Bitmap" package="com.example.04-bitmap" version="1.0.0" company="Mediabox" />
+	<app main="Main" path="Export" file="04-Bitmap" />
+	<window width="320" height="480" fps="30" />
+	
+	<source path="Source" />
+	<source path="../graphics" />
+
+	<haxelib name="openfl" />
+
+	<assets path="Assets" rename="assets" exclude="nme.svg" />
+	<icon path="Assets/nme.svg" />
+	
+</project>

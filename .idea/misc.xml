@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="IdProvider" IDEtalkID="2EA7E51978FFCDF66FD7BE78583C142A" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="haXe 3" project-jdk-type="haXe SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
