@@ -2,6 +2,7 @@ openfl-haxetelier
 =================
 
 All the demos files of the first openfl haxetelier : http://www.silexlabs.org/143492/the-blog/haxetelier-3-coup-de-flash-sur-openfl-le-workflow-tout-en-un/
+
 All these demos use only cross platform code, there is no conditional compilation, etc.
 
 They may drive you step by step to learn how to use the AS3 API.
